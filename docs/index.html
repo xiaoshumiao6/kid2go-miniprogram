@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="referrer" content="no-referrer">
+  <meta http-equiv="Content-Security-Policy" content="default-src 'none'; script-src 'self'; style-src 'self'; img-src 'self' https://raw.githubusercontent.com; connect-src 'self'; base-uri 'none'; object-src 'none'; form-action 'none'">
+  <title>小芽趣玩 · GitHub 图片访问测试</title>
+  <link rel="stylesheet" href="style.css">
+  <script defer src="probe.js"></script>
+</head>
+<body>
+  <main>
+    <h1>GitHub 图片访问测试</h1>
+    <p>仅测试5张历史实景小图的访问，不是小程序正式版，也不代表景区当前状态。请先关闭代理，再分别在 Wi-Fi 和移动网络下测试。</p>
+    <aside>图片为来源站提供的约500px缩略图，单张约38–75KiB。本次不裁切、不调色；结果不代表最终封面规格的性能。网页访问通过，也仍需另做小程序真机验收。</aside>
+    <section class="controls" aria-label="测试设置">
+      <label>图片地址
+        <select id="target"><option value="pages">GitHub Pages（本站）</option><option value="raw">GitHub Raw（仓库原始文件地址）</option></select>
+      </label>
+      <label>网络备注（仅留在本页）<input id="network" placeholder="例如：北京 / Wi-Fi / 已关闭代理" maxlength="100"></label>
+      <div class="buttons">
+        <button id="normal" disabled>加载5张图片</button>
+        <button id="fresh" disabled>换查询参数再测</button>
+      </div>
+      <small>“加载”重复使用相同地址，可能命中缓存；换查询参数也不保证清空浏览器或服务器缓存。单图超时20秒。耗时从设置地址计至 load/error 事件，不是纯网络TTFB。</small>
+    </section>
+    <p id="status" role="status" aria-live="polite">正在读取图片与署名清单……</p>
+    <div id="photos" class="photos"></div>
+    <section>
+      <h2>本页测试记录</h2>
+      <p>没有自动上传、埋点或统计服务。以下记录仅保留在当前页面内存中，可自行复制；刷新后清空。</p>
+      <textarea id="results" readonly aria-label="本页测试记录" rows="10"></textarea>
+    </section>
+    <footer>
+      <a href="ATTRIBUTION.md">摄影作者、来源及逐图许可</a> · <a href="sources.json">图片清单与SHA-256</a> · <a href="README.md">部署和测试说明</a>
+      <p>摄影作者及相关场所未因此认可或背书本项目。测试页不是完整权利审查或正式封面发布批准。</p>
+    </footer>
+  </main>
+</body>
+</html>
