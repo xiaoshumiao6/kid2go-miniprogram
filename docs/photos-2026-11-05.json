@@ -1,0 +1,55 @@
+{
+  "schemaVersion": 1,
+  "preparedOn": "2026-11-05",
+  "status": "photo_hosting_assets_not_automatically_enabled_in_miniprogram",
+  "photos": [
+    {
+      "nameZh": "颐和园",
+      "file": "images/summer-palace-commons-115829730-w1280-v1.jpg",
+      "title": "Summer Palace in Beijing2022 Spring.jpg",
+      "photographer": "Charlie fong",
+      "captureDate": "2022-03-05",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Summer_Palace_in_Beijing2022_Spring.jpg",
+      "licenseLabel": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 1280,
+      "height": 720,
+      "bytes": 243139,
+      "sha256": "6e0f3d6476c9b136d381e20afb92ec1ddcf04c880bae207dd6681954298cb09c",
+      "scopeZh": "2022年早春万寿山、佛香阁和昆明湖历史外观；不代表当前季节。",
+      "changesZh": "由来源原图等比例缩小至1280×720并进行JPEG压缩（质量参数78）；未裁切、重绘、去人物或换背景。页面按容器缩放、裁显；完整原图见来源。"
+    },
+    {
+      "nameZh": "海淀公园",
+      "file": "images/haidian-park-commons-82284635-w1280-v1.jpg",
+      "title": "Haidian Park.jpg",
+      "photographer": "钉钉",
+      "captureDate": "2019-09-18",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Haidian_Park.jpg",
+      "licenseLabel": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 1280,
+      "height": 720,
+      "bytes": 305514,
+      "sha256": "644ee7d97cbbfbb484732cfe0c26d7531f7ab77b25b38931c5609993b4e9b5f0",
+      "scopeZh": "2019年秋季湖面和水岸历史景观；画面中的小船不代表提供游船服务。",
+      "changesZh": "由来源原图等比例缩小至1280×720并进行JPEG压缩（质量参数78）；未裁切、重绘、去人物或换背景。页面按容器缩放、裁显；完整原图见来源。"
+    },
+    {
+      "nameZh": "圆明园遗址公园",
+      "file": "images/old-summer-palace-commons-150285471-w1280-v1.jpg",
+      "title": "Yuanmingyuan Ruins of Dashuifa (20240708).jpg",
+      "photographer": "深鸣",
+      "captureDate": "2024-07-08",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Yuanmingyuan_Ruins_of_Dashuifa_(20240708).jpg",
+      "licenseLabel": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 1280,
+      "height": 853,
+      "bytes": 380967,
+      "sha256": "f1f751b31b12960708986f6368c1213d51927b0f9b884d1ce90a7d2670ded17c",
+      "scopeZh": "2024年7月圆明园大水法遗址局部；不代表公园全貌或当前开放范围。",
+      "changesZh": "由来源原图等比例缩小至1280×853并进行JPEG压缩（质量参数78）；未裁切、重绘、去人物或换背景。页面按容器缩放、裁显；完整原图见来源。"
+    }
+  ]
+}
