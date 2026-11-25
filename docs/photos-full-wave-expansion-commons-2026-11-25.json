@@ -1,0 +1,70 @@
+{
+  "schemaVersion": 1,
+  "preparedOn": "2026-11-25",
+  "photos": [
+    {
+      "nameZh": "莲花池公园",
+      "file": "images/venue-b986710215e7-commons-62508683-max1280-v1.jpg",
+      "width": 1280,
+      "height": 893,
+      "bytes": 295941,
+      "sha256": "d6749e02c116a4006cb1397d234cb3c70376530fabbc1a44eb126c6989d8bdf0",
+      "title": "Morning at the Lotus Pond (20170524053512).jpg",
+      "photographer": "N509FZ",
+      "captureDate": "2017-05-24",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Morning_at_the_Lotus_Pond_(20170524053512).jpg",
+      "licenseLabel": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "scopeZh": "2017年莲花池公园历史影像，主体为园内水面、岸线与绿化；不代表场所全貌、现行陈列、季节或开放状态。",
+      "changeNoticeZh": "由来源原图等比例缩小，并进行JPEG压缩（质量参数72）；未裁切、重绘、去人物或换背景。成品为1280×893。页面按容器缩放、裁显；完整原图见来源。"
+    },
+    {
+      "nameZh": "老舍纪念馆",
+      "file": "images/venue-f5a53a5bec4f-commons-28097520-max1280-v1.jpg",
+      "width": 1280,
+      "height": 960,
+      "bytes": 382539,
+      "sha256": "19629aba271ec34763b8e05da46fce5b24623b8d55febf6c81863a7744710f19",
+      "title": "老舍故居内景.jpg",
+      "photographer": "徐然宽",
+      "captureDate": "2012-12-12",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:%E8%80%81%E8%88%8D%E6%95%85%E5%B1%85%E5%86%85%E6%99%AF.jpg",
+      "licenseLabel": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "scopeZh": "2012年老舍纪念馆历史影像，主体为北京老舍故居院落与建筑；不代表场所全貌、现行陈列、季节或开放状态。",
+      "changeNoticeZh": "由来源原图等比例缩小，并进行JPEG压缩（质量参数72）；未裁切、重绘、去人物或换背景。成品为1280×960。页面按容器缩放、裁显；完整原图见来源。"
+    },
+    {
+      "nameZh": "丰台区图书馆大红门馆",
+      "file": "images/venue-436193efd8d2-commons-180486206-max1280-v1.jpg",
+      "width": 1280,
+      "height": 853,
+      "bytes": 280491,
+      "sha256": "fe50c0badae8bd19423f7bbfe5e4a6b458feb2eaac9d8fa86a3f195183a2e084",
+      "title": "丰台区图书馆 20251221.jpg",
+      "photographer": "Huangchinhai",
+      "captureDate": "2025-12-21",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:%E4%B8%B0%E5%8F%B0%E5%8C%BA%E5%9B%BE%E4%B9%A6%E9%A6%86_20251221.jpg",
+      "licenseLabel": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "scopeZh": "2025年丰台区图书馆大红门馆历史影像，主体为大红门馆建筑外观；不代表场所全貌、现行陈列、季节或开放状态。",
+      "changeNoticeZh": "由来源原图等比例缩小，并进行JPEG压缩（质量参数72）；未裁切、重绘、去人物或换背景。成品为1280×853。页面按容器缩放、裁显；完整原图见来源。"
+    },
+    {
+      "nameZh": "汉石桥湿地景区（开放游览区）",
+      "file": "images/venue-778bc11cff60-commons-52655365-max1280-v1.jpg",
+      "width": 1280,
+      "height": 857,
+      "bytes": 478799,
+      "sha256": "2b9437b36b3a47cb7b09b9a0c4572c82b938e0ee5628297ec99fc997ce07349b",
+      "title": "Shunyi, Beijing, China - panoramio - jetsun (7).jpg",
+      "photographer": "jetsun",
+      "captureDate": "2009-07-25",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Shunyi,_Beijing,_China_-_panoramio_-_jetsun_(7).jpg",
+      "licenseLabel": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "scopeZh": "2009年汉石桥湿地景区（开放游览区）历史影像，主体为湿地水面、岸线植被和木桥历史景观；不代表场所全貌、现行陈列、季节或开放状态。",
+      "changeNoticeZh": "由来源原图等比例缩小，并进行JPEG压缩（质量参数72）；未裁切、重绘、去人物或换背景。成品为1280×857。页面按容器缩放、裁显；完整原图见来源。"
+    }
+  ]
+}
