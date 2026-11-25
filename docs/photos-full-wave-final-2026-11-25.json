@@ -1,0 +1,70 @@
+{
+  "schemaVersion": 1,
+  "preparedOn": "2026-11-25",
+  "photos": [
+    {
+      "nameZh": "卢沟桥历史博物馆",
+      "file": "images/venue-064e91f82031-commons-175361303-max1280-v1.jpg",
+      "width": 1280,
+      "height": 960,
+      "bytes": 310800,
+      "sha256": "5caabcdf3ab6de29041487bdb8673b6bb3b9d97a9cbd6103519fdfcf6b2ae227",
+      "title": "Lugou Bridge Museum 1.jpg",
+      "photographer": "H2v5o68z",
+      "captureDate": "2025-09-14",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Lugou_Bridge_Museum_1.jpg",
+      "licenseLabel": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "scopeZh": "2025年卢沟桥历史博物馆历史影像，主体为院落建筑外观；不代表场所全貌、现行陈列、季节或开放状态。",
+      "changeNoticeZh": "由来源原图等比例缩小，并进行JPEG压缩（质量参数72）；未裁切、重绘、去人物或换背景。成品为1280×960。页面按容器缩放、裁显；完整原图见来源。"
+    },
+    {
+      "nameZh": "元大都城垣遗址公园（朝阳段）",
+      "file": "images/venue-1cf59e8b7ce0-commons-60087934-max1280-v1.jpg",
+      "width": 1280,
+      "height": 960,
+      "bytes": 358257,
+      "sha256": "b1b8793168764eb19dda9b4fce41bada847852353702b9931d3907be91949d3e",
+      "title": "元大都城垣遗址公园 - Yuan Dynasty City Wall Relics Park - 2015.09 - panoramio.jpg",
+      "photographer": "rheins",
+      "captureDate": "2015-09-19",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:%E5%85%83%E5%A4%A7%E9%83%BD%E5%9F%8E%E5%9E%A3%E9%81%97%E5%9D%80%E5%85%AC%E5%9B%AD_-_Yuan_Dynasty_City_Wall_Relics_Park_-_2015.09_-_panoramio.jpg",
+      "licenseLabel": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "scopeZh": "2015年元大都城垣遗址公园（朝阳段）历史影像，主体为朝阳段园内景观；不代表场所全貌、现行陈列、季节或开放状态。",
+      "changeNoticeZh": "由来源原图等比例缩小，并进行JPEG压缩（质量参数72）；未裁切、重绘、去人物或换背景。成品为1280×960。页面按容器缩放、裁显；完整原图见来源。"
+    },
+    {
+      "nameZh": "北京公交馆",
+      "file": "images/venue-84ed9e792330-commons-142964382-max1280-v1.jpg",
+      "width": 1280,
+      "height": 853,
+      "bytes": 427759,
+      "sha256": "9e72a4f86a2ed48bc00e9ae3c468b8cfd0df0d9a63a03c17c20705381b0fd209",
+      "title": "Entrance of Beijing Public Transport Hall (20231227095320).jpg",
+      "photographer": "N509FZ",
+      "captureDate": "2023-12-27",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Entrance_of_Beijing_Public_Transport_Hall_(20231227095320).jpg",
+      "licenseLabel": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "scopeZh": "2023年北京公交馆历史影像，主体为展馆入口外观；不代表场所全貌、现行陈列、季节或开放状态。",
+      "changeNoticeZh": "由来源原图等比例缩小，并进行JPEG压缩（质量参数72）；未裁切、重绘、去人物或换背景。成品为1280×853。页面按容器缩放、裁显；完整原图见来源。"
+    },
+    {
+      "nameZh": "北京野生动物园（大兴榆垡）",
+      "file": "images/venue-87b3cc9c8105-flickr-14941209681-max1280-v1.jpg",
+      "width": 1280,
+      "height": 960,
+      "bytes": 443414,
+      "sha256": "0394d4387e30a9c5b247bbf6507c1dacd76313964da9c0ae2a171cfba0c762a3",
+      "title": "黑天鹅",
+      "photographer": "cdarlint",
+      "captureDate": "2014-07-26",
+      "sourcePage": "https://www.flickr.com/photos/cdarlint/14941209681",
+      "licenseLabel": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+      "scopeZh": "2014年摄影者标注拍摄于北京野生动物园的黑天鹅历史实景；仅展示动物局部，不代表当前园区环境、动物种类或开放状态。",
+      "changeNoticeZh": "由来源原图等比例缩小，并进行JPEG压缩（质量参数72）；未裁切、重绘、去人物或换背景。成品为1280×960。页面按容器缩放、裁显；完整原图见来源。"
+    }
+  ]
+}
