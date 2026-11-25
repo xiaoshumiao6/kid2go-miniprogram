@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "preparedOn": "2026-11-25",
+  "photos": [
+    {
+      "nameZh": "石景山图书馆少儿馆",
+      "file": "images/venue-ae49858d283b-official-ade375fdff-v1.jpg",
+      "width": 702,
+      "height": 527,
+      "bytes": 72835,
+      "sha256": "c6a1cb7728cc10341fe875946375aaa34781f5f26cebf76b97b608912fa9f925",
+      "title": "石景山区图书馆少儿馆古城南路馆舍外观（官方历史实景照片）",
+      "photographer": "未署名；来源：北京市石景山区人民政府／北京石景山",
+      "captureDate": "未标注（来源报道发布于2024-03-08）",
+      "sourcePage": "https://english.bjsjs.gov.cn/shijingshanInsight/202403/t20240322_79830.html",
+      "licenseLabel": "区政府官网条件：资料性公共免费使用，保留来源",
+      "licenseUrl": "https://www.bjsjs.gov.cn/sjssy/flsm/",
+      "scopeZh": "石景山区图书馆少儿馆古城南路馆舍外观的历史实景。来自官网对应场馆报道。不代表当前开放、展陈、活动或设施状态；实际拍摄日期及摄影者未单独标注。",
+      "changeNoticeZh": "将来源原图保留原始尺寸702×527，并进行JPEG压缩（质量参数72）；未放大、裁切、重绘、去人物或换背景。页面按容器缩放、裁显；完整来源见链接。"
+    },
+    {
+      "nameZh": "东郊森林公园华北树木园",
+      "file": "images/venue-f7c32627dbd8-official-6fb911a1ad-v1.jpg",
+      "width": 700,
+      "height": 934,
+      "bytes": 134043,
+      "sha256": "c6efa9ad52d6527eaa078b93525c80ed89ef125f36a88d4c7b2c137d1a411b7c",
+      "title": "华北树木园南园“碧水长湾”春日湖岸（官方历史实景照片）",
+      "photographer": "未署名；来源：北京市园林绿化局（首都绿化委员会办公室）",
+      "captureDate": "未标注（来源报道发布于2026-04-15）",
+      "sourcePage": "https://yllhj.beijing.gov.cn/ztxx/jcyyshj/djsh/202604/t20260416_4584932.shtml",
+      "licenseLabel": "官网条件：非商业公共免费资料性使用，保留来源",
+      "licenseUrl": "https://yllhj.beijing.gov.cn/zdxx/202003/t20200327_1740583.shtml",
+      "scopeZh": "华北树木园南园“碧水长湾”春日湖岸的历史实景。来自官网对应场馆报道。不代表当前开放、展陈、活动或设施状态；实际拍摄日期及摄影者未单独标注。",
+      "changeNoticeZh": "将来源原图保留原始尺寸700×934，并进行JPEG压缩（质量参数72）；未放大、裁切、重绘、去人物或换背景。页面按容器缩放、裁显；完整来源见链接。"
+    }
+  ]
+}
