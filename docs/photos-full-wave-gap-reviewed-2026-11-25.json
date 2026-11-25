@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 1,
+  "preparedOn": "2026-11-25",
+  "photos": [
+    {
+      "nameZh": "大瓦窑公园",
+      "file": "images/venue-50f3a29491f4-bureau-ced66c8629-v1.jpg",
+      "width": 500,
+      "height": 300,
+      "bytes": 97851,
+      "sha256": "ced66c862997033472cfe82c72cfa083c57dbd023bd4d9e202382cd656c61c16",
+      "title": "大瓦窑公园瓦片圆形广场",
+      "photographer": "未署名；来源：北京市园林绿化局(首都绿化委员会办公室)",
+      "captureDate": "未标注（来源页面发布于2020-12-16）",
+      "sourcePage": "https://yllhj.beijing.gov.cn/ztxx/lhysh/st/202012/t20201216_2166525.shtml",
+      "licenseLabel": "官网转载条件：公共免费资料性引用并注明来源",
+      "licenseUrl": "https://yllhj.beijing.gov.cn/zdxx/202003/t20200327_1740583.shtml",
+      "scopeZh": "大瓦窑公园瓦片圆形广场及园内绿化的历史实景；画面为官网2020年报道所用照片，不代表当前季节、设施或开放状态。摄影者及实际拍摄日期未单独标注；仅用于公共免费的地点资料介绍，按官网条件注明来源。",
+      "changeNoticeZh": "保留来源原图文件及原始尺寸，未放大、裁切、重绘或换背景。成品为500×300。页面按容器缩放、裁显，完整来源见链接。"
+    },
+    {
+      "nameZh": "永顺刘庄公园",
+      "file": "images/venue-2a001fcde44e-bureau-0535f4c035-v1.jpg",
+      "width": 1280,
+      "height": 960,
+      "bytes": 291191,
+      "sha256": "a177398376e115564e94fd39c1dfbc8aa7b59026272998e5e2f2e2237880f1b9",
+      "title": "刘庄公园园名景墙与园区外观",
+      "photographer": "未署名；来源：北京市园林绿化局(首都绿化委员会办公室)",
+      "captureDate": "未标注（来源页面发布于2022-06-15）",
+      "sourcePage": "https://yllhj.beijing.gov.cn/ggfw/bjsggml/zlgy/tzq/202206/t20220615_2741678.shtml",
+      "licenseLabel": "官网转载条件：公共免费资料性引用并注明来源",
+      "licenseUrl": "https://yllhj.beijing.gov.cn/zdxx/202003/t20200327_1740583.shtml",
+      "scopeZh": "通州区永顺镇刘庄公园园名景墙与园区外观的历史实景；不是其他同名公园，不作为指定导航入口，不代表当前设施或开放状态。摄影者及实际拍摄日期未单独标注；仅用于公共免费的地点资料介绍，按官网条件注明来源。",
+      "changeNoticeZh": "由来源原图等比例缩小，并进行JPEG压缩（质量参数72）；未放大、裁切、重绘、去人物或换背景。成品为1280×960。页面按容器缩放、裁显，完整来源见链接。"
+    },
+    {
+      "nameZh": "北京六必居博物馆",
+      "file": "images/venue-540c477b4473-wwj-fb44438845-v1.jpg",
+      "width": 600,
+      "height": 315,
+      "bytes": 63944,
+      "sha256": "5dc52d39ba4baaa99ec8d0d201fec5d9ca5e330e77664ea85ddb563a5da0443d",
+      "title": "北京六必居博物馆老井展陈实景",
+      "photographer": "未署名；来源：北京市文物局",
+      "captureDate": "未标注（来源报道发布于2024-08-26）",
+      "sourcePage": "https://wwj.beijing.gov.cn/bjww/362679/362680/642963/543393002/index.html",
+      "licenseLabel": "官网转载条件：注明来源且不改变原意",
+      "licenseUrl": "https://wwj.beijing.gov.cn/bjww/552769/index.html",
+      "scopeZh": "北京市西城区粮食店街3号六必居博物馆老井展陈的历史实景，来自报道中该馆独立段落；不代表当前展陈、开放或服务安排。摄影者及实际拍摄日期未单独标注，按官网条件保留来源。",
+      "changeNoticeZh": "将来源PNG转换为JPEG并进行压缩（质量参数72），保留600×315原始尺寸；未放大、裁切、重绘、去人物或换背景。页面按容器缩放、裁显，完整来源见链接。"
+    }
+  ]
+}
